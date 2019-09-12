@@ -1,32 +1,48 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>GIFtastic</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- BootStrap Link -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <!-- My CSS file -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+   
     <link rel="stylesheet" type="text/css" media="screen" href="assets\css\style.css" />
 </head>
-<body>  
+
+<body>
     <div class="contianer">
-        <h2> Nickelodeon cartoons from the 90's</h2>
-        <h6> Click on a Button below to see some </h6>
+        <h2> Cartoons from the 90's</h2>
+        <h6> Click on a Button below to see some silly cartoon Gifs from the 90's! </h6>
     </div>
-    
-  
+
+    <!-- buttons -->
+    <div class="row">
+        <div class="buttons-view"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-9 contianer-fluid">
+
+
+        <div id="toon-view"></div>
+        </div>
+        <div class="col-lg-3">
+            <form id="toon-form">
+                <label for="toon-input">Add your own Toon!</label>
+                <input type="text" class="form-control col- 12" id="toon-input">
+                <br>
+                <input class="btn btn-warning" id="add-toon" type="submit" value="Click me">
+            </form>
+        </div>
+    </div>
 
 
 
-
-
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="assets\javascript\app.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="assets\javascript\app.js"></script>
 </body>
 </html>
-
