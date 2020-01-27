@@ -46,3 +46,9 @@ If you have any questions about this project or about the material we covered, t
 -------------------------------------------------------------------------------
 
 # Good Luck!
+
+-------------------------------------------------------------------------------
+
+Many thanks for taking the time and consideration out of your day to look at my github. 
+* kobicummings@gmail.com
+* https://www.linkedin.com/in/kobi-cummings/
