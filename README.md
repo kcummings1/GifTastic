@@ -39,7 +39,10 @@ Add a form to your page takes the value from a user input box and adds it into y
 Rejoice! You just made something really cool.
 -------------------------------------------------------------------------------
 
-# One More Thing
+One More Thing
+
 If you have any questions about this project or about the material we covered, the instructor and your TAs are only a Slack message away.
 
-Good Luck!
+-------------------------------------------------------------------------------
+
+# Good Luck!
