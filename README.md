@@ -7,6 +7,8 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 
 Before you begin, hit the GIPHY API. Fool around with the GIPHY API.
 
+-------------------------------------------------------------------------------
+
 Be sure to read about these GIPHY parameters (hint, hint):
 
 * q
