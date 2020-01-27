@@ -50,6 +50,6 @@ If you have any questions about this project or about the material we covered, t
 
 -------------------------------------------------------------------------------
 
-Again, many thanks for taking the time and consideration out of your day to look at my github. 
+Again, many thanks for taking the time and consideration  to look at my github. 
 
 * https://www.linkedin.com/in/kobi-cummings/
