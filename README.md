@@ -15,6 +15,7 @@ Be sure to read about these GIPHY parameters (hint, hint):
 * limit
 * rating
 
+
 Like many APIs, GIPHY requires developers to use a key to access their API data. Their public API Key is provided here.
 
 Watch the demo video.
