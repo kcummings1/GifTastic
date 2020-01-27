@@ -1,20 +1,29 @@
 body {
   background-color: rgb(124, 38, 38);
+  border: 10px solid black;
+  margin: 25px 50px 75px 100px;
 }
 
 .buttons-view {
   border-radius: 20px;
   padding: 5px;
+  border: 10px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: orange;
+	border-color: black;
 }
 
 label {
   font-weight: bolder;
   color: rgb(206, 110, 0);
+
 }
 
 img {
   border-radius: 10px;
   margin-top: 5px;
+  border: 10px solid black;
+  margin: 25px 50px 75px 100px;
 }
 
 .toon-name {
